@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://www.decoora.com/wp-content/uploads/2018/08/agenda-personal-formato.jpg");
+    background-size: 100%;
+}
+
+#article1{
+    float: left;
+    width: 49%;
+    height: 100%;
+    margin:auto;
+
+}
+#article2 {
+    float: left;
+    width: 49%;
+    height: 100%;
+    margin:auto;
+    border-left: 5px  dotted;
+
+}
